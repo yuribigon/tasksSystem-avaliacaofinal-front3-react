@@ -1,0 +1,45 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 22,
+  "workbench.iconTheme": "vscode-icons",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Dracula",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": { "path": "C:\\Program Files\\Git\\bin\\bash.exe" }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.jsxSingleQuote": true,
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "editor.accessibilitySupport": "off",
+  "files.autoSave": "afterDelay",
+  "git.confirmSync": false,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "tabnine.experimentalAutoImports": true,
+  "cSpell.userWords": ["contatos", "websecurityconfigureradapter"],
+  "boot-java.rewrite.reconcile": true,
+  "window.zoomLevel": -1,
+  "eslint.enable": true
+}
